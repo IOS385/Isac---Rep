@@ -1,0 +1,17 @@
+Net Status Report
+Filename     : C:\Users\oliveiri\OneDrive - STMicroelectronics\Boards\Isac MagLev TCC\OpAMP\OpAMP.PcbDoc
+Date         : 29/08/2023
+Time         : 07:34:46
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +24, Signal Layers Only, 14.2842mm
+    A0, Signal Layers Only, 57.0609mm
+    NetR1_1, Signal Layers Only, 11.6404mm
+    NetR1_2, Signal Layers Only, 7.9885mm
+    NetR2_1, Signal Layers Only, 7.0687mm
+    NetR2_2, Signal Layers Only, 6.753mm
+    OUT1, Signal Layers Only, 24.1883mm
+    OUT2, Signal Layers Only, 7.7442mm
+    Signal_Ref, Signal Layers Only, 26.3852mm
+count : 9

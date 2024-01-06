@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=R8-1
+Removed Pin From Net: NetName=INPUT+ Pin=R8-2
+Removed Member From Class: ClassName=Subtrator OPAMP Member=R21
+Change Component Comment : Designator=R10 Old Comment=TBD New Comment=NM
+Change Component Designator: OldDesignator=R21 NewDesignator=R8

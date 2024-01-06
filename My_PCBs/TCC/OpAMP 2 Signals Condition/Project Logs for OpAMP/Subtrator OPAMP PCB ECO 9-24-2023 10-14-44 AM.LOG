@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OUT1 Pin=P2-4
+Removed Pin From Net: NetName=OUT2 Pin=P2-5
+Added Pin To Net: NetName=OUT3 Pin=P2-4
+Added Pin To Net: NetName=OUT4 Pin=P2-5
+Added Member To Class: ClassName=Subtrator OPAMP Member=Component P3 61301011121

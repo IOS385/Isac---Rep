@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R8 Old Footprint=SM/R_0805 New Footprint=SM/R_1206
+Added Member To Class: ClassName=Subtrator OPAMP Member=Component R8 220R

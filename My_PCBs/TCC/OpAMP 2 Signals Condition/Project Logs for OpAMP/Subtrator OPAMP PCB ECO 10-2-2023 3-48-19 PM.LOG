@@ -1,0 +1,30 @@
+Added Component: Designator=DZ1(SOD80)
+Add component (AddParameter): Name = "Category"; Value = "Zener Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZV55-C22,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0.22000, 10=0.20800, 25=0.14200, 50=0.11200, 100=0.09200, 250=0.07200, 500=0.05500, 1000=0.04800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10881"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "96K7268"; VariantName = "[No Variations]"
+Added Component: Designator=DZ2(SOD80)
+Add component (AddParameter): Name = "Category"; Value = "Zener Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZV55-C22,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0.22000, 10=0.20800, 25=0.14200, 50=0.11200, 100=0.09200, 250=0.07200, 500=0.05500, 1000=0.04800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10881"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "96K7268"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Signal_Ref Pin=DZ1-A
+Added Pin To Net: NetName=OUT2 Pin=DZ1-K
+Added Pin To Net: NetName=Signal_Ref Pin=DZ2-A
+Added Pin To Net: NetName=OUT4 Pin=DZ2-K
+Added Member To Class: ClassName=Subtrator OPAMP Member=Component DZ1 3V3/0.5W
+Added Member To Class: ClassName=Subtrator OPAMP Member=Component DZ2 3V3/0.5W

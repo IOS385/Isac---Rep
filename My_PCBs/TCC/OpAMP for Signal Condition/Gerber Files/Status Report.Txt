@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [OpAMP.PcbDoc]
+   Generated File[OpAMP.TXT]
+   Generated File[OpAMP.LDP]
+   Generated File[OpAMP.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:55:35 On 29/08/2023
